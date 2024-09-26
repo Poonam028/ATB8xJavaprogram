@@ -1,4 +1,4 @@
-package Sept.ex_16092024;
+package Sept.ex_18092024;
 
 public class Lab025logicalOperator {
     public static void main(String[] args) {

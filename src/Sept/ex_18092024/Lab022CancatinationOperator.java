@@ -1,4 +1,4 @@
-package Sept.ex_16092024;
+package Sept.ex_18092024;
 
 public class Lab022CancatinationOperator {
     public static void main(String[] args) {
@@ -6,11 +6,10 @@ public class Lab022CancatinationOperator {
         // Interview quetions
         String firstName = "Poonam";
         String lastName = "Sawant";
-       int a = 40;
+     int a = 40;
         int b = 20;
         System.out.println(firstName + lastName + a + b);
-
-       System.out.println( a + b + firstName + lastName );
+        System.out.println( a + b + firstName + lastName );
 
     }
 }
