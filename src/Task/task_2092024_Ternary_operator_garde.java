@@ -9,7 +9,6 @@ public class task_2092024_Ternary_operator_garde {
         //  score >= 70 → C
 
         int a = 85;
-        int grade =
 
             }
         }
