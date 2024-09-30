@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12ef6dfc-9e47-4fdc-a33b-63836d369682" name="Changes" comment="all files added - 27 sept">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task23092024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Fizbuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Ternary_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Ternary_operator_garde.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Triangle_Classifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Triangle_Classifier1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/task_1892024_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_1892024_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/task_1892024_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_1892024_4.java" afterDir="false" />
-    </list>
+    <list default="true" id="12ef6dfc-9e47-4fdc-a33b-63836d369682" name="Changes" comment="all files added -all task  27 sept" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -327,7 +314,31 @@
       <option name="project" value="LOCAL" />
       <updated>1727726533127</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="all files added - 27 sept">
+      <option name="closed" value="true" />
+      <created>1727727071022</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727727071022</updated>
+    </task>
+    <task id="LOCAL-00013" summary="all files added -all task  27 sept">
+      <option name="closed" value="true" />
+      <created>1727727162419</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727727162419</updated>
+    </task>
+    <task id="LOCAL-00014" summary="all files added -all task  27 sept">
+      <option name="closed" value="true" />
+      <created>1727727242187</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727727242187</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,7 +349,8 @@
     <MESSAGE value="all files added - 20 sept" />
     <MESSAGE value="all files added - 23 sept" />
     <MESSAGE value="all files added - 27 sept" />
-    <option name="LAST_COMMIT_MESSAGE" value="all files added - 27 sept" />
+    <MESSAGE value="all files added -all task  27 sept" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files added -all task  27 sept" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
