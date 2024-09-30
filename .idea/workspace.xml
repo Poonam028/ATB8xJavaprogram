@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12ef6dfc-9e47-4fdc-a33b-63836d369682" name="Changes" comment="added">
+    <list default="true" id="12ef6dfc-9e47-4fdc-a33b-63836d369682" name="Changes" comment="all files added - 27 sept">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task23092024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Fizbuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Ternary_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Ternary_operator_garde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Triangle_Classifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2092024_Triangle_Classifier1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_04092024/Lab004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_04092024/Lab004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task_1892024_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_1892024_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task_1892024_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_1892024_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +52,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -55,28 +65,154 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ATB8xJavaprogram/src/Sept&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab004.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab012.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab020arithmeticOperator.executor": "Run",
+    "Application.Lab021UnaryOperator.executor": "Run",
+    "Application.Lab022CancatinationOperator.executor": "Run",
+    "Application.Lab023CompoundOperator.executor": "Run",
+    "Application.Lab023TypeCasting.executor": "Run",
+    "Application.Lab024relationalOperator.executor": "Run",
+    "Application.Lab025logicalOperator.executor": "Run",
+    "Application.Lab026.executor": "Run",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029_Ternary_Operator.executor": "Run",
+    "Application.Lab029_Ternary_Operator2.executor": "Run",
+    "Application.Lab029_Ternary_Operator_Interview.executor": "Run",
+    "Application.Lab030_Conditions.executor": "Run",
+    "Application.Lab031_Conditions.executor": "Run",
+    "Application.Lab032_Conditions.executor": "Run",
+    "Application.Lab033_Conditions.executor": "Run",
+    "Application.Lab034_Conditions.executor": "Run",
+    "Application.Lab035Grade_calculator.executor": "Run",
+    "Application.Lab040_Switch_Statement.executor": "Run",
+    "Application.Lab040_Switch_Statement1.executor": "Run",
+    "Application.Lab040_Switch_Statement2.executor": "Run",
+    "Application.Lab043_Switch_Statement3.executor": "Run",
+    "Application.Lab044_Switch_Statement4.executor": "Run",
+    "Application.Lab045_Switch_Statement5.executor": "Run",
+    "Application.Lab046_Vowels.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048_For_loop.executor": "Run",
+    "Application.Lab049_For_loop.executor": "Run",
+    "Application.Lab050_For_loop.executor": "Run",
+    "Application.Lab051_For_loop.executor": "Run",
+    "Application.Lab052_For_loop.executor": "Run",
+    "Application.Lab053_For_loop.executor": "Run",
+    "Application.Lab054_For_loop.executor": "Run",
+    "Application.Lab055_For_loop.executor": "Run",
+    "Application.Lab056_For_loop.executor": "Run",
+    "Application.Lab057_For_loopCondition.executor": "Debug",
+    "Application.Lab058_For_loopCondition.executor": "Run",
+    "Application.Lab059_For_loopCondition.executor": "Run",
+    "Application.Lab060_For_loopCondition.executor": "Run",
+    "Application.Lab061_Continue_Keyword.executor": "Run",
+    "Application.Lab062_Continue_Keyword.executor": "Debug",
+    "Application.Lab063_preincrement.executor": "Run",
+    "Application.Lab064_whileloop.executor": "Run",
+    "Application.Lab066_ScannerClass.executor": "Run",
+    "Application.Lab067_Dowhile_loop.executor": "Run",
+    "Application.task_1892024.executor": "Run",
+    "Application.task_1892024_2.executor": "Run",
+    "Application.task_1892024_3.executor": "Run",
+    "Application.task_1892024_4.executor": "Run",
+    "Application.task_2092024_Fizbuzz.executor": "Run",
+    "Application.task_2092024_LeapYear.executor": "Run",
+    "Application.task_2092024_Ternary_operator.executor": "Run",
+    "Application.task_2092024_Triangle_Classifier.executor": "Run",
+    "Application.task_2092024_Triangle_Classifier1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ATB8xJavaprogram/src/Sept/ex_27092024",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\IdeaProjects\ATB8xJavaprogram\src\Sept" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\ATB8xJavaprogram\src\Sept\ex_27092024" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\ATB8xJavaprogram\src\Sept\ex_25092024" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\ATB8xJavaprogram\src\Sept\ex_23092024" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\ATB8xJavaprogram\src\Sept\ex_20092024" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\ATB8xJavaprogram\src\Sept\ex_18092024" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Task" />
+      <recent name="Sept.ex_25092024" />
+      <recent name="Sept.ex_23092024" />
+      <recent name="Sept.ex_18092024" />
+      <recent name="Sept.ex_20092024" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex_04092024.Lab004" />
+  <component name="RunManager" selected="Application.task_2092024_Ternary_operator">
+    <configuration name="task_2092024_Fizbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_2092024_Fizbuzz" />
       <module name="ATB8xJavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex_04092024.*" />
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_2092024_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_2092024_LeapYear" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_2092024_Ternary_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_2092024_Ternary_operator" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_2092024_Triangle_Classifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_2092024_Triangle_Classifier" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_2092024_Triangle_Classifier1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_2092024_Triangle_Classifier1" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,7 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab004" />
+        <item itemvalue="Application.task_2092024_Ternary_operator" />
+        <item itemvalue="Application.task_2092024_LeapYear" />
+        <item itemvalue="Application.task_2092024_Triangle_Classifier1" />
+        <item itemvalue="Application.task_2092024_Triangle_Classifier" />
+        <item itemvalue="Application.task_2092024_Fizbuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -123,11 +263,147 @@
       <option name="project" value="LOCAL" />
       <updated>1725988560642</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added">
+      <option name="closed" value="true" />
+      <created>1725989492991</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725989492991</updated>
+    </task>
+    <task id="LOCAL-00005" summary="all files added">
+      <option name="closed" value="true" />
+      <created>1726510658007</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726510658007</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all files added">
+      <option name="closed" value="true" />
+      <created>1726597156461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726597156461</updated>
+    </task>
+    <task id="LOCAL-00007" summary="all files added - 16 sept">
+      <option name="closed" value="true" />
+      <created>1726750836311</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726750836311</updated>
+    </task>
+    <task id="LOCAL-00008" summary="all files added - 18 sept">
+      <option name="closed" value="true" />
+      <created>1727378654786</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727378654786</updated>
+    </task>
+    <task id="LOCAL-00009" summary="all files added - 20 sept">
+      <option name="closed" value="true" />
+      <created>1727438449727</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727438449727</updated>
+    </task>
+    <task id="LOCAL-00010" summary="all files added - 23 sept">
+      <option name="closed" value="true" />
+      <created>1727463614617</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727463614617</updated>
+    </task>
+    <task id="LOCAL-00011" summary="all files added - 27 sept">
+      <option name="closed" value="true" />
+      <created>1727726533127</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727726533127</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added" />
-    <option name="LAST_COMMIT_MESSAGE" value="added" />
+    <MESSAGE value="all files added" />
+    <MESSAGE value="all files added - 16 sept" />
+    <MESSAGE value="all files added - 18 sept" />
+    <MESSAGE value="all files added - 20 sept" />
+    <MESSAGE value="all files added - 23 sept" />
+    <MESSAGE value="all files added - 27 sept" />
+    <option name="LAST_COMMIT_MESSAGE" value="all files added - 27 sept" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_11092024/Lab013.java</url>
+          <line>3</line>
+          <properties class="Sept.ex_11092024.Lab013" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task/task_1892024_4.java</url>
+          <line>3</line>
+          <properties class="Task.task_1892024_4" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_18092024/Lab032_Conditions.java</url>
+          <line>3</line>
+          <properties class="Sept.ex_18092024.Lab032_Conditions" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_23092024/Lab042_Switch_Statement2.java</url>
+          <line>3</line>
+          <properties class="Sept.ex_23092024.Lab042_Switch_Statement2" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_25092024/Lab062_Continue_Keyword.java</url>
+          <line>3</line>
+          <properties class="Sept.ex_25092024.Lab062_Continue_Keyword" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_25092024/Lab057_For_loopCondition.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_25092024/Lab062_Continue_Keyword.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task/task_2092024_Fizbuzz.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
