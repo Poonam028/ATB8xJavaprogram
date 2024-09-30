@@ -6,6 +6,5 @@ public class task_1892024_4 {
 
         System.out.println(a-- + a-- + a--);
         System.out.println(a);
-
     }
 }
