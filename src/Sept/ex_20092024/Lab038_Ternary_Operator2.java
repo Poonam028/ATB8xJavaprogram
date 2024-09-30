@@ -1,6 +1,6 @@
 package Sept.ex_20092024;
 
-public class Lab029_Ternary_Operator2 {
+public class Lab038_Ternary_Operator2 {
     public static void main(String[] args) {
         
         //Syntax for ternary operator

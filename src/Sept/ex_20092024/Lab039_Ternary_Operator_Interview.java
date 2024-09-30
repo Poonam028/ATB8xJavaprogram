@@ -1,6 +1,6 @@
 package Sept.ex_20092024;
 
-public class Lab029_Ternary_Operator_Interview {
+public class Lab039_Ternary_Operator_Interview {
     public static void main(String[] args) {
         //Interview question
         //Syntax for ternary operator
