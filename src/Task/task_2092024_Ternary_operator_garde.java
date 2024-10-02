@@ -9,8 +9,15 @@ public class task_2092024_Ternary_operator_garde {
         //  score >= 70 → C
 
         int a = 85;
+                String grade = (a >= 90) ? "A" :
+                        (a >= 80) ? "B" :
+                                (a >= 70) ? "C" : "F"; // F for failing grade
 
+                System.out.println("Score: " + a + " → Grade: " + grade);
             }
+
+            
         }
+
 
 
