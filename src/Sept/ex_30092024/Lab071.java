@@ -9,7 +9,7 @@ public class Lab071 {
 
     }
     public static int poonam (int a, int b){
-        System.out.println("Without return type and with parameters");
+        System.out.println("With return type and with parameters");
         return a+b;
     }
 
