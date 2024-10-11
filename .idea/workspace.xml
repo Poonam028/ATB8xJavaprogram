@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12ef6dfc-9e47-4fdc-a33b-63836d369682" name="Changes" comment="all files added -all task  25 sept" />
+    <list default="true" id="12ef6dfc-9e47-4fdc-a33b-63836d369682" name="Changes" comment="all files added -all task 25 sept">
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2792024_Five_Even_num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2792024_Sum_From_1_to_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_2792024_While_DoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,7 +45,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Poonam028/ATB8xJavaprogram.git&quot;,
-    &quot;accountId&quot;: &quot;f510eef1-419d-42db-872a-60cb19a8b428&quot;
+    &quot;accountId&quot;: &quot;eaeb711d-30e5-4cd3-a6cc-f0d55cabd71a&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -52,92 +62,95 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab020arithmeticOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab021UnaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab022CancatinationOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab023CompoundOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab023TypeCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab024relationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab025logicalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab026.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab027.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab028.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab029_Ternary_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab029_Ternary_Operator2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab029_Ternary_Operator_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab030_Conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab031_Conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab032_Conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab033_Conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab034_Conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab035Grade_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab040_Switch_Statement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab040_Switch_Statement1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab040_Switch_Statement2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab043_Switch_Statement3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab044_Switch_Statement4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab045_Switch_Statement5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab046_Vowels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab049_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab050_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab051_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab052_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab053_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab054_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab055_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab056_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab057_For_loopCondition.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab058_For_loopCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab059_For_loopCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab060_For_loopCondition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab061_Continue_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab062_Continue_Keyword.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab063_preincrement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab064_whileloop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab066_ScannerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab067_Dowhile_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab068.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab069.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab070.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab071.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_1892024.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_1892024_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_1892024_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_1892024_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2092024_Fizbuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2092024_LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2092024_Ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2092024_Ternary_operator_garde.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2092024_Triangle_Classifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2092024_Triangle_Classifier1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2392024_Month.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2392024_Month1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2392024_UnitsConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2392024_calculator_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2592024_10_Table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task_2592024_Prime_Number.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.task_2592024_Vowels.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.task_2592024_factorial.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/ATB8xJavaprogram/src/Sept/ex_30092024&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab004.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab012.executor": "Run",
+    "Application.Lab013.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab020arithmeticOperator.executor": "Run",
+    "Application.Lab021UnaryOperator.executor": "Run",
+    "Application.Lab022CancatinationOperator.executor": "Run",
+    "Application.Lab023CompoundOperator.executor": "Run",
+    "Application.Lab023TypeCasting.executor": "Run",
+    "Application.Lab024relationalOperator.executor": "Run",
+    "Application.Lab025logicalOperator.executor": "Run",
+    "Application.Lab026.executor": "Run",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029_Ternary_Operator.executor": "Run",
+    "Application.Lab029_Ternary_Operator2.executor": "Run",
+    "Application.Lab029_Ternary_Operator_Interview.executor": "Run",
+    "Application.Lab030_Conditions.executor": "Run",
+    "Application.Lab031_Conditions.executor": "Run",
+    "Application.Lab032_Conditions.executor": "Run",
+    "Application.Lab033_Conditions.executor": "Run",
+    "Application.Lab034_Conditions.executor": "Run",
+    "Application.Lab035Grade_calculator.executor": "Run",
+    "Application.Lab040_Switch_Statement.executor": "Run",
+    "Application.Lab040_Switch_Statement1.executor": "Run",
+    "Application.Lab040_Switch_Statement2.executor": "Run",
+    "Application.Lab043_Switch_Statement3.executor": "Run",
+    "Application.Lab044_Switch_Statement4.executor": "Run",
+    "Application.Lab045_Switch_Statement5.executor": "Run",
+    "Application.Lab046_Vowels.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048_For_loop.executor": "Run",
+    "Application.Lab049_For_loop.executor": "Run",
+    "Application.Lab050_For_loop.executor": "Run",
+    "Application.Lab051_For_loop.executor": "Run",
+    "Application.Lab052_For_loop.executor": "Run",
+    "Application.Lab053_For_loop.executor": "Run",
+    "Application.Lab054_For_loop.executor": "Run",
+    "Application.Lab055_For_loop.executor": "Run",
+    "Application.Lab056_For_loop.executor": "Run",
+    "Application.Lab057_For_loopCondition.executor": "Debug",
+    "Application.Lab058_For_loopCondition.executor": "Run",
+    "Application.Lab059_For_loopCondition.executor": "Run",
+    "Application.Lab060_For_loopCondition.executor": "Run",
+    "Application.Lab061_Continue_Keyword.executor": "Run",
+    "Application.Lab062_Continue_Keyword.executor": "Debug",
+    "Application.Lab063_preincrement.executor": "Run",
+    "Application.Lab064_whileloop.executor": "Run",
+    "Application.Lab066_ScannerClass.executor": "Run",
+    "Application.Lab067_Dowhile_loop.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.task_1892024.executor": "Run",
+    "Application.task_1892024_2.executor": "Run",
+    "Application.task_1892024_3.executor": "Run",
+    "Application.task_1892024_4.executor": "Run",
+    "Application.task_2092024_Fizbuzz.executor": "Run",
+    "Application.task_2092024_LeapYear.executor": "Run",
+    "Application.task_2092024_Ternary_operator.executor": "Run",
+    "Application.task_2092024_Ternary_operator_garde.executor": "Run",
+    "Application.task_2092024_Triangle_Classifier.executor": "Run",
+    "Application.task_2092024_Triangle_Classifier1.executor": "Run",
+    "Application.task_2392024_Month.executor": "Run",
+    "Application.task_2392024_Month1.executor": "Run",
+    "Application.task_2392024_UnitsConversion.executor": "Run",
+    "Application.task_2392024_calculator_Switch.executor": "Run",
+    "Application.task_2592024_10_Table.executor": "Run",
+    "Application.task_2592024_Prime_Number.executor": "Debug",
+    "Application.task_2592024_Vowels.executor": "Debug",
+    "Application.task_2592024_factorial.executor": "Debug",
+    "Application.task_2792024_Five_Even_num.executor": "Run",
+    "Application.task_2792024_Sum_From_1_to_10.executor": "Run",
+    "Application.task_2792024_While_DoWhile.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/ATB8xJavaprogram/src/Sept/ex_30092024",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\IdeaProjects\ATB8xJavaprogram\src\Sept\ex_30092024" />
@@ -154,7 +167,20 @@
       <recent name="Sept.ex_18092024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task_2592024_Vowels">
+  <component name="RunManager" selected="Application.task_2792024_Sum_From_1_to_10">
+    <configuration name="Lab064_whileloop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex_25092024.Lab064_whileloop" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sept.ex_25092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab067_Dowhile_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sept.ex_27092024.Lab067_Dowhile_loop" />
       <module name="ATB8xJavaprogram" />
@@ -168,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_2592024_10_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_2592024_10_Table" />
+    <configuration name="task_2792024_Five_Even_num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_2792024_Five_Even_num" />
       <module name="ATB8xJavaprogram" />
       <extension name="coverage">
         <pattern>
@@ -181,8 +207,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_2592024_Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_2592024_Prime_Number" />
+    <configuration name="task_2792024_Sum_From_1_to_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_2792024_Sum_From_1_to_10" />
       <module name="ATB8xJavaprogram" />
       <extension name="coverage">
         <pattern>
@@ -194,21 +220,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_2592024_Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_2592024_Vowels" />
-      <module name="ATB8xJavaprogram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_2592024_factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_2592024_factorial" />
+    <configuration name="task_2792024_While_DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.task_2792024_While_DoWhile" />
       <module name="ATB8xJavaprogram" />
       <extension name="coverage">
         <pattern>
@@ -222,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task_2592024_Vowels" />
-        <item itemvalue="Application.task_2592024_Prime_Number" />
-        <item itemvalue="Application.task_2592024_factorial" />
-        <item itemvalue="Application.task_2592024_10_Table" />
+        <item itemvalue="Application.task_2792024_Sum_From_1_to_10" />
+        <item itemvalue="Application.task_2792024_Five_Even_num" />
+        <item itemvalue="Application.task_2792024_While_DoWhile" />
         <item itemvalue="Application.Lab067_Dowhile_loop" />
+        <item itemvalue="Application.Lab064_whileloop" />
       </list>
     </recent_temporary>
   </component>
@@ -447,6 +460,15 @@
           </properties>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sept/ex_27092024/Lab067_Dowhile_loop.java</url>
+          <line>3</line>
+          <properties class="Sept.ex_27092024.Lab067_Dowhile_loop" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Sept/ex_25092024/Lab057_For_loopCondition.java</url>
           <line>4</line>
@@ -471,6 +493,16 @@
           <url>file://$PROJECT_DIR$/src/Task/task_2592024_Vowels.java</url>
           <line>8</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task/task_2792024_While_DoWhile.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task/task_2792024_Five_Even_num.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
