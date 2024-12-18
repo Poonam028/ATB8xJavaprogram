@@ -5,9 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12ef6dfc-9e47-4fdc-a33b-63836d369682" name="Changes" comment="all files added -all task 30 sept">
-      <change afterPath="$PROJECT_DIR$/src/Task/task_04102024_ObjectOf_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/task_04102024_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_18102024/Lab019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_21102024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task18th_Oct_2024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task18th_Oct_2024_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Task18th_Oct_2024_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_13092024/Lab016.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_13092024/Lab016.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16092024/Lab019AssignmentOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16092024/Lab020arithmeticOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16092024/Lab021UnaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16092024/Lab022CancatinationOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16092024/Lab023CompoundOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16092024/Lab024relationalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16092024/Lab025logicalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_16092024/Lab026.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab019AssignmentOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab020arithmeticOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab021UnaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab022CancatinationOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab023CompoundOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab023TypeCasting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab024relationalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab025logicalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab026.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab027.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab028.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab030_Conditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab031_Conditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab032_Conditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab033_Conditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab034_Conditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_18092024/Lab035Grade_calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_20092024/Lab036_Ternary_Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_20092024/Lab037_Ternary_Operator1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_20092024/Lab038_Ternary_Operator2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_20092024/Lab039_Ternary_Operator_Interview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_23092024/Lab040_Switch_Statement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_23092024/Lab041_Switch_Statement1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_23092024/Lab042_Switch_Statement2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_23092024/Lab043_Switch_Statement3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_23092024/Lab044_Switch_Statement4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_23092024/Lab045_Switch_Statement5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_23092024/Lab046_Vowels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab047.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab048_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab049_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab050_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab051_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab052_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab053_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab054_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab055_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab056_For_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab057_For_loopCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab058_For_loopCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab059_For_loopCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab060_For_loopCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab061_Continue_Keyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab062_Continue_Keyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab063_preincrement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab064_whileloop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab065_whileloop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_25092024/Lab066_ScannerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_27092024/Lab067_Dowhile_loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_30092024/Lab068.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_30092024/Lab069.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_30092024/Lab070.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_30092024/Lab071.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_30092024/Lab072.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_30092024/Lab073.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_30092024/Lab074.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_30092024/Lab075_10_table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task/task_1892024_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task/task_1892024_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +116,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Poonam028/ATB8xJavaprogram.git&quot;,
-    &quot;accountId&quot;: &quot;93259154-d4e2-4df4-9787-b3ca43b794bc&quot;
+    &quot;accountId&quot;: &quot;08808ae4-e893-4d91-a213-f87014ab74eb&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -76,8 +148,12 @@
     "Application.Lab016.executor": "Run",
     "Application.Lab017.executor": "Run",
     "Application.Lab018.executor": "Run",
+    "Application.Lab019.executor": "Run",
+    "Application.Lab020.executor": "Run",
     "Application.Lab020arithmeticOperator.executor": "Run",
+    "Application.Lab021.executor": "Run",
     "Application.Lab021UnaryOperator.executor": "Run",
+    "Application.Lab022.executor": "Run",
     "Application.Lab022CancatinationOperator.executor": "Run",
     "Application.Lab023CompoundOperator.executor": "Run",
     "Application.Lab023TypeCasting.executor": "Run",
@@ -130,10 +206,14 @@
     "Application.Lab073.executor": "Run",
     "Application.Lab074.executor": "Run",
     "Application.Lab075_10_table.executor": "Run",
+    "Application.Running Lab020.executor": "Run",
+    "Application.Task18th_Oct_2024.executor": "Run",
+    "Application.Task18th_Oct_2024_2.executor": "Run",
+    "Application.Task18th_Oct_2024_3.executor": "Run",
     "Application.task_04102024_ObjectOf_Person.executor": "Run",
     "Application.task_1892024.executor": "Run",
     "Application.task_1892024_2.executor": "Run",
-    "Application.task_1892024_3.executor": "Run",
+    "Application.task_1892024_3.executor": "Debug",
     "Application.task_1892024_4.executor": "Run",
     "Application.task_2092024_Fizbuzz.executor": "Run",
     "Application.task_2092024_LeapYear.executor": "Run",
@@ -156,6 +236,7 @@
     "Application.task_3092024_Vowels.executor": "Run",
     "Application.task_3992024_Factorial.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -176,15 +257,54 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Task" />
+      <recent name="Oct.ex_21102024" />
       <recent name="Oct.ex_11102024.police" />
       <recent name="Sept.ex_30092024" />
       <recent name="Sept.ex_25092024" />
-      <recent name="Sept.ex_23092024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task_04102024_ObjectOf_Person">
-    <configuration name="task_04102024_ObjectOf_Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_04102024_ObjectOf_Person" />
+  <component name="RunManager" selected="Application.Task18th_Oct_2024_3">
+    <configuration name="Lab020" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024.Lab020" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_21102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024.Lab021" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_21102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_21102024.Lab022" />
+      <module name="ATB8xJavaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_21102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task18th_Oct_2024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task18th_Oct_2024" />
       <module name="ATB8xJavaprogram" />
       <extension name="coverage">
         <pattern>
@@ -196,8 +316,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_2592024_Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_2592024_Prime_Number" />
+    <configuration name="Task18th_Oct_2024_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task18th_Oct_2024_2" />
       <module name="ATB8xJavaprogram" />
       <extension name="coverage">
         <pattern>
@@ -209,34 +329,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task_2592024_Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_2592024_Vowels" />
-      <module name="ATB8xJavaprogram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_3092024_Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_3092024_Prime_Number" />
-      <module name="ATB8xJavaprogram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task_3092024_Vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.task_3092024_Vowels" />
+    <configuration name="Task18th_Oct_2024_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task.Task18th_Oct_2024_3" />
       <module name="ATB8xJavaprogram" />
       <extension name="coverage">
         <pattern>
@@ -249,19 +343,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.task_04102024_ObjectOf_Person" />
-      <item itemvalue="Application.task_2592024_Vowels" />
-      <item itemvalue="Application.task_3092024_Vowels" />
-      <item itemvalue="Application.task_2592024_Prime_Number" />
-      <item itemvalue="Application.task_3092024_Prime_Number" />
+      <item itemvalue="Application.Lab020" />
+      <item itemvalue="Application.Lab021" />
+      <item itemvalue="Application.Lab022" />
+      <item itemvalue="Application.Task18th_Oct_2024" />
+      <item itemvalue="Application.Task18th_Oct_2024_2" />
+      <item itemvalue="Application.Task18th_Oct_2024_3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task_04102024_ObjectOf_Person" />
-        <item itemvalue="Application.task_3092024_Vowels" />
-        <item itemvalue="Application.task_2592024_Vowels" />
-        <item itemvalue="Application.task_2592024_Prime_Number" />
-        <item itemvalue="Application.task_3092024_Prime_Number" />
+        <item itemvalue="Application.Task18th_Oct_2024_3" />
+        <item itemvalue="Application.Task18th_Oct_2024_2" />
+        <item itemvalue="Application.Task18th_Oct_2024" />
+        <item itemvalue="Application.Lab022" />
+        <item itemvalue="Application.Lab021" />
       </list>
     </recent_temporary>
   </component>
